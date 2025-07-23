@@ -34,3 +34,31 @@ Performance Evaluation Metrics
 - Communication, Growth & Learning.
 Summary
 You are expected to deliver with integrity, learn continuously, and contribute meaningfully. Support will be provided, bu
+
+========================================
+Support Resources
+Internal Python notebooks and GitHub repositories
+
+Recommended beginner tutorials on pandas, matplotlib, and NumPy
+
+Optional: 1–2 short DataCamp/Coursera lessons
+
+Tracking & Reporting
+Short daily check-in or update (verbal or via message)
+
+End-of-week summary by coach to manager with:
+
+Tasks completed
+
+Observed strengths and gaps
+
+Recommendation for next steps
+
+Expected Outcomes
+By the end of Week 2, [Employee Name] should be able to:
+
+Write and execute basic Python scripts without supervision
+
+Complete a simple data task and explain the output
+
+Demonstrate improved presence, engagement, and ownership of assigned work
